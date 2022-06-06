@@ -1,0 +1,15 @@
+D:\Dev\DTE_Tech\gen\bin\Debug\net6.0\gen.exe
+D:\Dev\DTE_Tech\gen\bin\Debug\net6.0\gen.deps.json
+D:\Dev\DTE_Tech\gen\bin\Debug\net6.0\gen.runtimeconfig.json
+D:\Dev\DTE_Tech\gen\bin\Debug\net6.0\gen.dll
+D:\Dev\DTE_Tech\gen\bin\Debug\net6.0\gen.pdb
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\gen.csproj.AssemblyReference.cache
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\gen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\gen.AssemblyInfoInputs.cache
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\gen.AssemblyInfo.cs
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\gen.csproj.CoreCompileInputs.cache
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\gen.dll
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\refint\gen.dll
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\gen.pdb
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\gen.genruntimeconfig.cache
+D:\Dev\DTE_Tech\gen\obj\Debug\net6.0\ref\gen.dll
